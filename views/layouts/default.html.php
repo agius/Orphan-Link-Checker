@@ -9,7 +9,7 @@
 <body>
   <h1>Orphaned Link Checker</h1>
   <div id="content">
-    <?= $content; ?>
+    <?= $content ?>
   </div>
 </body>
 </html>
