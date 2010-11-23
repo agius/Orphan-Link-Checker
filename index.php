@@ -37,7 +37,6 @@ dispatch_post('/check', 'check_links');
       try{
           $all_pages = $unlinked_pages = array_keys(get_pb('GetCurrentPages', 'pages'));
           foreach($all_pages as $page){
-              $page = 'SideBar';
               $html = get_pb("GetPage/page/$page", 'html');
               $linked_pages = array();
               foreach($unlinked_pages as $unlinked){
