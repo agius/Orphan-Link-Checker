@@ -10,6 +10,10 @@
 </head>
 <body>
   <h1>Orphaned Link Checker</h1>
+  <?php if(isset($_SESSION['notice'])){ ?>
+      <div id="notice"><?= $_SESSION['notice'] ?></div>
+      <?php unset($_SESSION['notice']) ?>
+  <?php } ?>
   <div id="content">
     <?= $content ?>
   </div>

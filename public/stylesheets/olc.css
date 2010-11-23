@@ -4,3 +4,4 @@ input{ margin-bottom: 1.6em; }
 h1{ font-size: 24pt; }
 h2{ font-size: 16pt; }
 ul{ margin-left: 2em; }
+#notice{ border: 1px dashed #FFAB19; background: #FFDDA3; padding: .5em; margin: .5em 0 1em 0; width: 50%; }
