@@ -1,0 +1,6 @@
+body{ font-family: Helvetica, Verdana, sans-serif; margin: 2em; }
+h1, h2, li, label, input{ margin: .8em 0 .8em 0; }
+input{ margin-bottom: 1.6em; }
+h1{ font-size: 24pt; }
+h2{ font-size: 16pt; }
+ul{ margin-left: 2em; }

@@ -5,6 +5,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Orphaned Link Checker</title>
+  <link rel="stylesheet" type="text/css" href="/public/stylesheets/reset.css" />
+  <link rel="stylesheet" type="text/css" href="/public/stylesheets/olc.css" />
 </head>
 <body>
   <h1>Orphaned Link Checker</h1>
